@@ -1,0 +1,8 @@
+# Ignorar carpetas de datos y graficos
+datos_polimero/
+datos_brush/
+*.png
+*.txt
+
+# Ignorar cache de python
+__pycache__/
